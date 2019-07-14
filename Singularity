@@ -2,4 +2,4 @@ Bootstrap: docker
 From: busybox:latest
 
 %runscript
-echo "Look at me, the tiny container :D"
+echo "Look at me, tiny container :D"
