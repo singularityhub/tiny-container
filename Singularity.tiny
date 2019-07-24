@@ -2,4 +2,5 @@ Bootstrap: docker
 From: busybox:latest
 
 %runscript
+sleep 9999
 echo "This is the tiny container... so tiny :D"
